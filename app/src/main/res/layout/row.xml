@@ -12,6 +12,7 @@
         android:layout_height="38dp"
         android:layout_marginLeft="10dp"
         android:text="TextView"
+        android:gravity="center"
         android:textStyle="bold" />
 
 </LinearLayout>
